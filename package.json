@@ -1,0 +1,18 @@
+{
+  "name": "discord-security-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for server security using slash commands",
+  "main": "index.js",
+  "author": "Friday",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0",
+    "fs": "0.0.1-security",
+    "axios": "^1.0.0",
+    "luxon": "^3.0.0"
+  }
+}
